@@ -1,0 +1,20 @@
+//Passenger ID: 0
+//Appear time: 00:02:00 Start floor: 1 Target floor: 3 Weight: 99.3 kg Load time: 00:02:00 Total time: 00:00:00
+//Exceed limit: No
+//Met passengers: [1, 2]
+//Passenger ID: 1
+//Appear time: 00:02:00 Start floor: 1 Target floor: 3 Weight: 99.3 kg Load time: 00:02:00 Total time: 00:00:00
+//Exceed limit: No
+//Met passengers: [0, 2]
+//Passenger ID: 2
+//Appear time: 00:02:00 Start floor: 1 Target floor: 3 Weight: 99.3 kg Load time: 00:02:00 Total time: 00:00:00
+//Exceed limit: No
+//Met passengers: [0, 1]
+//Passenger ID: 3
+//Appear time: 00:03:00 Start floor: 1 Target floor: 4 Weight: 78.3 kg Load time: 00:03:06 Total time: 00:00:00
+//Exceed limit: Yes
+//Met passengers: [4]
+//Passenger ID: 4
+//Appear time: 00:03:00 Start floor: 1 Target floor: 4 Weight: 75.3 kg Load time: 00:03:06 Total time: 00:00:00
+//Exceed limit: Yes
+//Met passengers: [3]
