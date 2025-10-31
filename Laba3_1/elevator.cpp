@@ -6,6 +6,7 @@
 elevator::elevator()
 {}
 
+
 elevator::elevator(int ID, int n, int weight_limit)
 {
     _ID = ID;
